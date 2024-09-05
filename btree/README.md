@@ -1,4 +1,4 @@
-# Datasets
+# B-tree Symbolic Testsuite
 
 To compare symbolic execution tools, we use a custom-made Wasm implementation
 of a B-tree data structure inspired by that of [cite].
