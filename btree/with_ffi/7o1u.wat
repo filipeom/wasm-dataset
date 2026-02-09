@@ -1,5 +1,5 @@
 (module
-  (import "symbolic" "i32_symbol" (func $i32.symbolic (result i32)))
+  (import "owi" "i32_symbol" (func $i32.symbolic (result i32)))
   (memory $0 2)
   (func $createBtree (param i32) (result i32) ;; createBtree(t), where t: degree of the btree
         (i32.const 0)
